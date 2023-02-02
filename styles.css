@@ -1,4 +1,7 @@
 @media (max-width: 768px) {
+	#piano {
+		width: 358px;
+	}
 }
 html {
 	box-sizing: border-box;
