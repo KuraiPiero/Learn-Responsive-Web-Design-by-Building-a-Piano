@@ -5,6 +5,9 @@
 	.keys {
 		width: 318px;
 	}
+	.logo {
+		width: 150px;
+	}
 }
 html {
 	box-sizing: border-box;
