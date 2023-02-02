@@ -11,6 +11,12 @@
 	}
 }
 @media (min-width: 769px) and (max-width: 1199px) {
+	#piano {
+		width: 675px;
+	}
+	.keys {
+		width: 633px;
+	}
 }
 html {
 	box-sizing: border-box;
