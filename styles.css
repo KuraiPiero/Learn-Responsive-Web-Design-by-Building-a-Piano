@@ -4,6 +4,7 @@
 	}
 	.keys {
 		width: 318px;
+		overflow: hidden;
 	}
 	.logo {
 		width: 150px;
