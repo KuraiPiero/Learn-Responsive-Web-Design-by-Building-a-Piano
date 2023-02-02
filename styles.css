@@ -13,6 +13,7 @@ html {
 	background-color: #2f2f2f;
 	margin: 80px auto;
 	padding: 90px 20px 0 20px;
+	border-radius: 10px;
 }
 .keys {
 	background-color: #040404;
