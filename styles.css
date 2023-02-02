@@ -9,5 +9,6 @@ html {
 #piano {
 	width: 992px;
 	height: 290px;
-	background-color: #00471b;
+	background-color: #2f2f2f;
+	margin: 80px auto;
 }
