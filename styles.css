@@ -2,6 +2,9 @@
 	#piano {
 		width: 358px;
 	}
+	.keys {
+		width: 318px;
+	}
 }
 html {
 	box-sizing: border-box;
